@@ -1,7 +1,7 @@
 # Emission-of-Cars-Linear-Model
 Machine Learning, Python
 
-## Fuel Consumption and Carbon dioxide emission of cars linear model
+## Fuel Consumption and Carbon Dioxide Emission of cars linear model
 ## Simple Linear Regression
 
 Metadata
